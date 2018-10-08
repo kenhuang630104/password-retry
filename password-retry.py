@@ -10,3 +10,5 @@ while i > 0:
 		print('invalid password!', end = " ")
 		if i > 0:
 			print('You have', i, 'chance')
+		else:
+			print('You have no chance!!It will lock!!')
